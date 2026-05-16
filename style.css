@@ -1,1 +1,20 @@
-
+/* notebook styles*/
+img{
+    width: 250px;
+}
+body{
+    background-image: url("https://image.slidesdocs.com/responsive-images/slides/0-orange-gradient-general-work-report-powerpoint-background_a735002259__960_540.jpg");
+     background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 110-vh;
+}
+a{
+    color: white;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+button:hover{
+    transform: scale(1.05);
+}
